@@ -10,9 +10,9 @@ The integration with the Kubernetes API for dynamic pod execution is done in the
 - Application and MongoDB images using Docker and images are pused to the Docker hub for pod creation
 - Kubernetes deployment with MongoDB in a separate pod, which replica set of 1
 - Application is also deployed in a seperate pod using kubernetes deployment, which has replica set of 1
-- MongoDB pod is internal pod used by the application, thus we created a service type as Node Port
+- MongoDB pod is internal pod used by the application, thus created a service type as Node Port
 - Application endpoints exposed using a LoadBalancer Service
-- Persistent volume to create volume which can be claimed for Mongodb pod and then Persistent volume claim we were able to mount the volume to the Mongodb pod
+- Persistent volume to create volume which can be claimed for Mongodb pod and then Persistent volume claim was able to mount the volume to the Mongodb pod
 - Dynamic pod creation for executing shell commands inside Kubernetes pods [Error] 
 
 ---
