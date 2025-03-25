@@ -4,7 +4,7 @@
 
 This project contains a Java-based REST API deployed in a Kubernetes cluster with MongoDB as the database. The deployment includes Docker containerization, Kubernetes manifests. 
 
-The integration with the Kubernetes API for dynamic pod execution is done in the application code. However when executing it, the dynamic pod creation alone causing troble.
+The integration with the Kubernetes API for dynamic pod execution is done in the application code. However when executing it, the dynamic pod creation alone causes troble.
 
 #Features:
 - Application and MongoDB images using Docker and images are pused to the Docker hub for pod creation
