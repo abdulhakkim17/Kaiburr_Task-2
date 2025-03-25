@@ -4,8 +4,7 @@
 
 Screenshots of implementation is inside: Task 2/Screenshots
 
-Source code is inside: Task 2/task-manager/k8s  (yaml files)
-                       Task 2/task-manager      (Docker file)
+Source code is inside: Task 2/task-manager/k8s
 
 This project contains a Java-based REST API deployed in a Kubernetes cluster with MongoDB as the database. The deployment includes Docker containerization, Kubernetes manifests. 
 
