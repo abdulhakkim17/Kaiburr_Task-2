@@ -2,9 +2,9 @@
 
 # Java Backend REST API - Kubernetes Deployment
 
-Screenshots of implementation is inside: Task 2/Screenshots
+#Screenshots of implementation is inside: Task 2/Screenshots
 
-Source code is inside: Task 2/task-manager/k8s
+#Source code is inside: Task 2/task-manager/k8s
 
 This project contains a Java-based REST API deployed in a Kubernetes cluster with MongoDB as the database. The deployment includes Docker containerization, Kubernetes manifests. 
 
